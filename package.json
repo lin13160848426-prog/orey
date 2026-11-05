@@ -1,0 +1,20 @@
+{
+  "name": "xumin-home",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --webpack",
+    "build": "next build --webpack",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^16.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "@phosphor-icons/react": "^2.1.0",
+    "@fontsource/plus-jakarta-sans": "^5.2.0"
+  },
+  "engines": {
+    "node": "24.x"
+  }
+}

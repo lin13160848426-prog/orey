@@ -1,0 +1,15 @@
+node_modules/
+.next/
+out/
+.vercel/
+.cache/
+coverage/
+*.log
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+.DS_Store
+*.tsbuildinfo
