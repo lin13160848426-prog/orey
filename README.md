@@ -26,4 +26,4 @@ No environment variables are required to build. Optionally configure `NEXT_PUBLI
 
 ## Current functionality
 
-Home and product inquiries prepare local content/files; the contact form prepares an email for the visitor to send. They do not submit to a server. Connect a production inquiry service before using the website for lead collection. AI illustrations and catalog dates remain disclosed on the pages.
+Home, product and contact inquiry forms POST to FormSubmit for xuminpackaging@gmail.com. FormSubmit email activation is required before delivery. Default CAPTCHA protection is retained. Successful submissions use the FormSubmit confirmation page. The email field provides the visitor reply address; product inquiries also include selected capacity and request type. AI illustrations and catalog dates remain disclosed on the pages.
